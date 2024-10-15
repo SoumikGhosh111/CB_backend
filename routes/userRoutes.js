@@ -6,5 +6,3 @@ router.get('/login', login);
 router.post('/register', register); 
 
 module.exports = router; 
-
-// changed by soumik
